@@ -1,0 +1,9 @@
+.app {
+    max-width: 600px;
+    width: 100%;
+}
+
+.to-do-title {
+    text-align: center;
+    text-transform: uppercase;
+}
